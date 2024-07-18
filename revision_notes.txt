@@ -1,0 +1,30 @@
+Memoization 
+// is a functional programming technique 
+// which attempts to increase a function’s performance 
+// by caching its previously computed results. 
+
+// 
+Hoisting
+console.log(message); //output : undefined
+var message = "The variable Has been hoisted";
+
+document.cookie = "username=John; expires=Sat, 8 Jun 2019 12:00:00 UTC";
+
+document.cookie = "username=John; path=/services";
+
+// promise.all
+Promise.all([Promise1, Promise2, Promise3]) .then(result) => {   console.log(result) }) .catch(error => 
+console.log(`Error in promises ${error}`))
+
+
+//history
+function goBack() {
+  window.history.back();
+}
+function goForward() {
+  window.history.forward();
+}
+
+
+How do you detect caps lock key turned on or not
+ mouseEvent getModifierState()
